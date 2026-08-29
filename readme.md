@@ -1,4 +1,4 @@
-# 📰 Avero – Article Reader Web Page
+# Avero | Article Reader Web Page
 
 **Avero** is a responsive article reader web application where users can:
 
@@ -8,7 +8,7 @@
 
 Built using **HTML**, **Tailwind CSS**, **DaisyUI**, and **JavaScript (DOM Manipulation)**.
 
-[🔗 Live Demo](https://devo-ab.github.io/avero)
+[🔗 Live Demo](https://avijitbwas.github.io/avero)
 
 ---
 
@@ -18,7 +18,7 @@ Built using **HTML**, **Tailwind CSS**, **DaisyUI**, and **JavaScript (DOM Manip
 - **Tailwind CSS**
 - **DaisyUI**
 - **JavaScript (Vanilla)**
-- **RESTful API** (for phone data)
+- **RESTful API** (for data)
 ---
 
 ## 🌟 Features
@@ -70,19 +70,33 @@ avero/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/devo-ab/avero.git
+   git clone https://github.com/avijitbwas/avero.git
    cd avero
    ```
 
 # 👤 Author
 
-# Avi Jit
+# Avijit Biswas
 
 ## :mailbox: Reach me out
 
 <p align="left">
-<a href="https://linkedin.com/in/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsavijitb" height="30" width="40" /></a>
-<a href="https://twitter.com/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsavijitb" height="30" width="40" /></a>
-<a href="https://facebook.com/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsavijitb" height="30" width="40" /></a>
-<a href="https://instagram.com/itsavijitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsavijitb" height="30" width="40" /></a>
+<a href="avijit0ae@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/avijitbwas/assets/refs/heads/main/icons/mail.png" alt="Email" height="35" width="35" />
+</a>
+<a href="https://www.linkedin.com/in/avijitbwasb" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/avijitbwas/assets/refs/heads/main/icons/linkedin.png" alt="LinkedIn" height="35" width="35" />
+</a>
+<a href="https://discord.com/users/avijitbwas" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/avijitbwas/assets/refs/heads/main/icons/discord.png" alt="Discord" height="35" width="35" />
+</a>
+<a href="https://x.com/avijitbwas" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/avijitbwas/assets/refs/heads/main/icons/x.png" alt="X" height="35" width="35" />
+</a>
+<a href="https://www.instagram.com/avijitbwas" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/avijitbwas/assets/refs/heads/main/icons/instagram.png" alt="Instagram" height="35" width="35" />
+</a>
+<a href="https://www.facebook.com/avijitbwas" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/avijitbwas/assets/refs/heads/main/icons/facebook.png" alt="Facebook" height="35" width="35" />
+</a>
 </p>
